@@ -1,5 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-Exception,ru.netology,Product,72,15,12,0,11,6,12,2,6,2
-Exception,ru.netology,NotFoundException,0,4,0,0,0,2,0,1,0,1
-Exception,ru.netology,AlreadyExistsException,0,4,0,0,0,2,0,1,0,1
-Exception,ru.netology.repository,ShopRepository,78,102,9,9,16,21,6,11,1,7
